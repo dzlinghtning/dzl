@@ -1,5 +1,5 @@
 :root {
-	--main-bg: #c2c2c2;
+	--main-bg: #000;
 	--trunk-bg-1: #5e2100;
 	--trunk-bg-2: #783e00;
 	--leaves-bottom-bg-1: #0f980f;
@@ -39,8 +39,9 @@ html, body {
 }
 
 .txt {
-	background-color: #c2c2c2;
+	background-color: #000;
 	text-align: center;
+	color:white;
 }
 
 .ts-3d {
